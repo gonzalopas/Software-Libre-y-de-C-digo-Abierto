@@ -1,0 +1,7 @@
+name: Drugabi
+type: theme
+description: Drugabi theme
+version: VERSION
+base theme: false
+core: 10.x
+core_version_requirement: ^9 || ^10
