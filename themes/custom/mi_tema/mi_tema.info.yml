@@ -1,0 +1,17 @@
+name: Mi Tema
+type: theme
+description: 'Un tema personalizado para Drupal 10.'
+core_version_requirement: ^10
+# Opcional: Define la base del tema si tu tema es subtema.
+# base theme: stable
+libraries:
+  - mi_tema/global-styling
+  - mi_tema/bootstrap-local
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  content: Content
+

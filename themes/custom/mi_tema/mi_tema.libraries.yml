@@ -1,0 +1,6 @@
+bootstrap-local:
+  css:
+    theme:
+      bootstrap/css/bootstrap.min.css: {}
+  js:
+    bootstrap/js/bootstrap.bundle.min.js: {}
